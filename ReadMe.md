@@ -2,6 +2,8 @@
 
 Tested: Working Video 720p, 1080p.
 
+Dev notes: Archie improve QMTech SDRAM compatibility- #23. Modified files are:  Archie.sv, sdram.v and pll_0002.v
+
 ___
 
 # [Acorn Archimedes](https://en.wikipedia.org/wiki/Acorn_Archimedes) for [MiSTer Board](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
